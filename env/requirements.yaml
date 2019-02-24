@@ -1,7 +1,7 @@
 dependencies:
 - name: dragoons-ui
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.57
+  version: 0.0.62
 - name: drg-ms-user
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.25
