@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.68
 - name: drg-ms-user
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.37
+  version: 0.0.3
 - name: drg-ms-user2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
