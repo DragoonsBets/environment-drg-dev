@@ -2,6 +2,9 @@ dependencies:
 - name: dragoons-ui
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.68
+- name: drg-ms-bet
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
 - name: drg-ms-user
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
