@@ -10,7 +10,7 @@ dependencies:
   version: 0.0.12
 - name: drgmsuser
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.41
+  version: 0.0.42
 - name: drgui
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
